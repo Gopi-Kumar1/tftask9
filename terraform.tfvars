@@ -1,0 +1,6 @@
+aws_region          = "eu-west-1"
+project_id          = "cmtr-35arqg4r"
+vpc_name            = "cmtr-35arqg4r-vpc"
+public_subnet_name  = "cmtr-35arqg4r-public-subnet-1"
+security_group_name = "cmtr-35arqg4r-sg"
+instance_type       = "t3.micro"
